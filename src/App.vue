@@ -2,6 +2,8 @@
   <div>
     <app-header />
 
+    <router-view></router-view>
+
     <!-- Player -->
     <div
       class="
